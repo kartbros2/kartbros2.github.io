@@ -294,7 +294,7 @@ html {
     -webkit-tap-highlight-color: transparent;
     -webkit-text-size-adjust: 100%;
     /* scrollbar-width: thin; */
-    scrollbar-color: #6ee3fd #0c4fa3;
+    scrollbar-color: #000000 #000000;
 }
 
 a {
