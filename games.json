@@ -1,0 +1,618 @@
+[
+    {
+        "id": 1,
+        "name": "1v1lol",
+        "slug": "1v1lol",
+        "image": "/upload/cache/upload/imgs/1v1lol.png",
+        "category": "Arcade",
+        "description": "Play 1v1lol online for free"
+    },
+    {
+        "id": 2,
+        "name": "2048",
+        "slug": "2048",
+        "image": "/upload/cache/upload/imgs/2048.jpg",
+        "category": "Arcade",
+        "description": "Play 2048 online for free"
+    },
+    {
+        "id": 3,
+        "name": "Adventure Drivers",
+        "slug": "adventure-drivers",
+        "image": "/upload/cache/upload/imgs/adventure-drivers.webp",
+        "category": "Arcade",
+        "description": "Play Adventure Drivers online for free"
+    },
+    {
+        "id": 4,
+        "name": "Agario",
+        "slug": "agario",
+        "image": "/upload/cache/upload/imgs/agario.webp",
+        "category": "Arcade",
+        "description": "Play Agario online for free"
+    },
+    {
+        "id": 5,
+        "name": "Among Us",
+        "slug": "among-us",
+        "image": "",
+        "category": "Arcade",
+        "description": "Play Among Us online for free"
+    },
+    {
+        "id": 6,
+        "name": "Basket Battle",
+        "slug": "basket-battle",
+        "image": "/upload/cache/upload/imgs/basket-battle.webp",
+        "category": "Arcade",
+        "description": "Play Basket Battle online for free"
+    },
+    {
+        "id": 7,
+        "name": "Basket Champs",
+        "slug": "basket-champs",
+        "image": "/upload/cache/upload/imgs/basket-champs.webp",
+        "category": "Arcade",
+        "description": "Play Basket Champs online for free"
+    },
+    {
+        "id": 8,
+        "name": "Basket Random",
+        "slug": "basket-random",
+        "image": "/upload/cache/upload/imgs/basketrandom.jpeg",
+        "category": "Arcade",
+        "description": "Play Basket Random online for free"
+    },
+    {
+        "id": 9,
+        "name": "Basketball Stars",
+        "slug": "basketball-stars",
+        "category": "Arcade",
+        "image": "/upload/cache/upload/imgs/basketball-stars.webp",
+        "description": "Play Basketball Stars online for free"
+    },
+    {
+        "id": 10,
+        "name": "Biker Street",
+        "slug": "biker-street",
+        "image": "/upload/cache/upload/imgs/biker-street.jpg",
+        "category": "Arcade",
+        "description": "Play Biker Street online for free"
+    },
+    {
+        "id": 11,
+        "name": "Block Blast",
+        "slug": "block-blast",
+        "image": "/upload/cache/upload/imgs/blockblast3d1.png",
+        "category": "Arcade",
+        "description": "Play Block Blast online for free"
+    },
+    {
+        "id": 12,
+        "name": "Blocky Snakes",
+        "slug": "blocky-snakes",
+        "image": "/upload/cache/upload/imgs/blocky-snakes.webp",
+        "category": "Arcade",
+        "description": "Play Blocky Snakes online for free"
+    },
+    {
+        "id": 13,
+        "name": "Blumgi Rocket",
+        "slug": "blumgi-rocket",
+        "image": "/upload/cache/upload/imgs/blumgi-rocket.webp",
+        "category": "Arcade",
+        "description": "Play Blumgi Rocket online for free"
+    },
+    {
+        "id": 14,
+        "name": "Car Rush",
+        "slug": "car-rush",
+        "image": "/upload/cache/upload/imgs/car-rush.webp",
+        "category": "Arcade",
+        "description": "Play Car Rush online for free"
+    },
+    {
+        "id": 15,
+        "name": "Cars Simulator",
+        "slug": "cars-simulator",
+        "image": "/upload/cache/upload/imgs/cars-simulator.webp",
+        "category": "Arcade",
+        "description": "Play Cars Simulator online for free"
+    },
+    {
+        "id": 17,
+        "name": "Color Tunnel 2",
+        "slug": "color-tunnel-2",
+        "image": "/upload/cache/upload/imgs/color-tunnel-2.webp",
+        "category": "Arcade",
+        "description": "Play Color Tunnel 2 online for free"
+    },
+    {
+        "id": 18,
+        "name": "Cookie Clicker",
+        "slug": "cookie-clicker",
+        "image": "/upload/cache/upload/imgs/cookieclickerthumb.png",
+        "category": "Arcade",
+        "description": "Play Cookie Clicker online for free"
+    },
+    {
+        "id": 19,
+        "name": "Crazy Cars",
+        "slug": "crazy-cars",
+        "image": "/upload/cache/upload/imgs/crazy-cars.webp",
+        "category": "Arcade",
+        "description": "Play Crazy Cars online for free"
+    },
+    {
+        "id": 20,
+        "name": "Crazy Tunnel 3d",
+        "slug": "crazy-tunnel-3d",
+        "image": "/upload/cache/upload/imgs/crazy-tunnel-3d.webp",
+        "category": "Arcade",
+        "description": "Play Crazy Tunnel 3d online for free"
+    },
+    {
+        "id": 22,
+        "name": "Cuby Road",
+        "slug": "cuby-road",
+        "image": "/upload/cache/upload/imgs/cubyroad.png",
+        "category": "Arcade",
+        "description": "Play Cuby Road online for free"
+    },
+    {
+        "id": 23,
+        "name": "Curve Rush",
+        "slug": "curve-rush",
+        "image": "/upload/cache/upload/imgs/curverush22.png",
+        "category": "Arcade",
+        "description": "Play Curve Rush online for free"
+    },
+    {
+        "id": 24,
+        "name": "Death Run 3d",
+        "slug": "death-run-3d",
+        "image": "/upload/cache/upload/imgs/death-run-3d.webp",
+        "category": "Arcade",
+        "description": "Play Death Run 3d online for free"
+    },
+    {
+        "id": 25,
+        "name": "Doodle Baseball",
+        "slug": "doodle-baseball",
+        "image": "/upload/cache/upload/imgs/doodle-baseball.webp",
+        "category": "Arcade",
+        "description": "Play Doodle Baseball online for free"
+    },
+    {
+        "id": 26,
+        "name": "Doodle Jump",
+        "slug": "doodle-jump",
+        "image": "/upload/cache/upload/imgs/doodle-jump.webp",
+        "category": "Arcade",
+        "description": "Play Doodle Jump online for free"
+    },
+    {
+        "id": 27,
+        "name": "Dreadhead Parkour",
+        "slug": "dreadhead-parkour",
+        "image": "/upload/cache/upload/imgs/dreadhead-parkour.webp",
+        "category": "Arcade",
+        "description": "Play Dreadhead Parkour online for free"
+    },
+    {
+        "id": 28,
+        "name": "Drift Boss",
+        "slug": "drift-boss",
+        "image": "/upload/cache/upload/imgs/drift-boss.png",
+        "category": "Arcade",
+        "description": "Play Drift Boss online for free"
+    },
+    {
+        "id": 29,
+        "name": "Drift Hunters",
+        "slug": "drift-hunters",
+        "image": "/upload/cache/upload/imgs/drifthunters-m200x200.webp",
+        "category": "Arcade",
+        "description": "Play Drift Hunters online for free"
+    },
+    {
+        "id": 30,
+        "name": "Drive Mad",
+        "slug": "drive-mad",
+        "image": "/upload/cache/upload/imgs/drivemad.png",
+        "category": "Arcade",
+        "description": "Play Drive Mad online for free"
+    },
+    {
+        "id": 31,
+        "name": "Eggy Car",
+        "slug": "eggy-car",
+        "image": "/upload/cache/upload/imgs/Eggy_Car.webp",
+        "category": "Arcade",
+        "description": "Play Eggy Car online for free"
+    },
+    {
+        "id": 32,
+        "name": "Electron Dash",
+        "slug": "electron-dash",
+        "image": "/upload/cache/upload/imgs/electron-dash.webp",
+        "category": "Arcade",
+        "description": "Play Electron Dash online for free"
+    },
+    {
+        "id": 34,
+        "name": "Flappy Bird",
+        "slug": "flappy-bird",
+        "image": "/upload/cache/upload/imgs/flappy-bird.webp",
+        "category": "Arcade",
+        "description": "Play Flappy Bird online for free"
+    },
+    {
+        "id": 35,
+        "name": "Football Legends",
+        "slug": "football-legends",
+        "image": "/upload/cache/upload/imgs/football-legends.webp",
+        "category": "Arcade",
+        "description": "Play Football Legends online for free"
+    },
+    {
+        "id": 36,
+        "name": "Fruit Ninja",
+        "slug": "fruit-ninja",
+        "image": "/upload/cache/upload/imgs/fruit-ninja.webp",
+        "category": "Arcade",
+        "description": "Play Fruit Ninja online for free"
+    },
+    {
+        "id": 37,
+        "name": "G Switch",
+        "slug": "g-switch",
+        "image": "/upload/cache/upload/imgs/g-switch.webp",
+        "category": "Arcade",
+        "description": "Play G Switch online for free"
+    },
+    {
+        "id": 38,
+        "name": "Geometry Dash",
+        "slug": "geometry-dash",
+        "image": "/upload/cache/upload/imgs/geometry-dash.webp",
+        "category": "Arcade",
+        "description": "Play Geometry Dash online for free"
+    },
+    {
+        "id": 39,
+        "name": "Golf Hit",
+        "slug": "golf-hit",
+        "image": "/upload/cache/upload/imgs/golfhit2-m200x200.webp",
+        "category": "Arcade",
+        "description": "Play Golf Hit online for free"
+    },
+    {
+        "id": 40,
+        "name": "Highway Racer 3d",
+        "slug": "highway-racer-3d",
+        "image": "/upload/cache/upload/imgs/highway-racer-3d.webp",
+        "category": "Arcade",
+        "description": "Play Highway Racer 3d online for free"
+    },
+    {
+        "id": 41,
+        "name": "Impossible Monster Truck",
+        "slug": "impossible-monster-truck",
+        "image": "/upload/cache/upload/imgs/impossible-monster-truck.webp",
+        "category": "Arcade",
+        "description": "Play Impossible Monster Truck online for free"
+    },
+    {
+        "id": 42,
+        "name": "Italian Brainrot Clicker",
+        "slug": "italian-brainrot-clicker",
+        "image": "/upload/cache/upload/imgs/italianbrainrotclicker3-m200x200.webp",
+        "category": "Arcade",
+        "description": "Play Italian Brainrot Clicker online for free"
+    },
+    {
+        "id": 43,
+        "name": "Jelly Truck",
+        "slug": "jelly-truck",
+        "image": "/upload/cache/upload/imgs/jelly-truck.webp",
+        "category": "Arcade",
+        "description": "Play Jelly Truck online for free"
+    },
+    {
+        "id": 44,
+        "name": "Moto X3m",
+        "slug": "moto-x3m",
+        "image": "/upload/cache/upload/imgs/Moto_X3M.webp",
+        "category": "Arcade",
+        "description": "Play Moto X3m online for free"
+    },
+    {
+        "id": 45,
+        "name": "Moto X3m 4 Winter",
+        "slug": "moto-x3m-4-winter",
+        "image": "/upload/cache/upload/imgs/moto-x3m-4-winter.png",
+        "category": "Arcade",
+        "description": "Play Moto X3m 4 Winter online for free"
+    },
+    {
+        "id": 46,
+        "name": "Moto X3m 5 Pool Party",
+        "slug": "moto-x3m-5-pool-party",
+        "image": "/upload/cache/upload/imgs/moto-x3m-5-pool-party.webp",
+        "category": "Arcade",
+        "description": "Play Moto X3m 5 Pool Party online for free"
+    },
+    {
+        "id": 47,
+        "name": "Motox3m 2",
+        "slug": "motox3m-2",
+        "image": "/upload/cache/upload/imgs/motox3m-2.webp",
+        "category": "Arcade",
+        "description": "Play Motox3m 2 online for free"
+    },
+    {
+        "id": 48,
+        "name": "Motox3m 3",
+        "slug": "motox3m-3",
+        "image": "/upload/cache/upload/imgs/motox3m-3.webp",
+        "category": "Arcade",
+        "description": "Play Motox3m 3 online for free"
+    },
+    {
+        "id": 49,
+        "name": "Ovo",
+        "slug": "ovo",
+        "image": "/upload/cache/upload/imgs/ovo.webp",
+        "category": "Arcade",
+        "description": "Play Ovo online for free"
+    },
+    {
+        "id": 50,
+        "name": "Pacman 30th Anniversary",
+        "slug": "pacman-30th-anniversary",
+        "image": "/upload/cache/upload/imgs/pacman-30th-anniversary.jpg",
+        "category": "Arcade",
+        "description": "Play Pacman 30th Anniversary online for free"
+    },
+    {
+        "id": 51,
+        "name": "Paper Io",
+        "slug": "paper-io",
+        "image": "/upload/cache/upload/imgs/paper-io.jpeg",
+        "category": "Arcade",
+        "description": "Play Paper Io online for free"
+    },
+    {
+        "id": 52,
+        "name": "Paperio 2",
+        "slug": "paperio-2",
+        "image": "/upload/cache/upload/imgs/paperio-2.webp",
+        "category": "Arcade",
+        "description": "Play Paperio 2 online for free"
+    },
+    {
+        "id": 53,
+        "name": "Paperio 3",
+        "slug": "paperio-3",
+        "image": "/upload/cache/upload/imgs/paperio-3.webp",
+        "category": "Arcade",
+        "description": "Play Paperio 3 online for free"
+    },
+    {
+        "id": 54,
+        "name": "Pixel Gun 3d",
+        "slug": "pixel-gun-3d",
+        "image": "/upload/cache/upload/imgs/pixel-gun-3d.webp",
+        "category": "Arcade",
+        "description": "Play Pixel Gun 3d online for free"
+    },
+    {
+        "id": 55,
+        "name": "Retro Bowl",
+        "slug": "retro-bowl",
+        "image": "/upload/cache/upload/imgs/retro-bowl.jpg",
+        "category": "Arcade",
+        "description": "Play Retro Bowl online for free"
+    },
+    {
+        "id": 56,
+        "name": "Retro Drift",
+        "slug": "retro-drift",
+        "image": "/upload/cache/upload/imgs/retro-drift.png",
+        "category": "Arcade",
+        "description": "Play Retro Drift online for free"
+    },
+    {
+        "id": 57,
+        "name": "Rolling Sky",
+        "slug": "rolling-sky",
+        "image": "/upload/cache/upload/imgs/rolling-sky.webp",
+        "category": "Arcade",
+        "description": "Play Rolling Sky online for free"
+    },
+    {
+        "id": 58,
+        "name": "Run 3",
+        "slug": "run-3",
+        "image": "/upload/cache/upload/imgs/run-3.webp",
+        "category": "Arcade",
+        "description": "Play Run 3 online for free"
+    },
+    {
+        "id": 59,
+        "name": "Shell Shockers",
+        "slug": "shell-shockers",
+        "image": "/upload/cache/upload/imgs/shell-shockers.webp",
+        "category": "Arcade",
+        "description": "Play Shell Shockers online for free"
+    },
+    {
+        "id": 60,
+        "name": "Slope",
+        "slug": "slope",
+        "image": "/upload/cache/upload/imgs/slope.webp",
+        "category": "Arcade",
+        "description": "Play Slope online for free"
+    },
+    {
+        "id": 61,
+        "name": "Slope 2",
+        "slug": "slope-2",
+        "image": "/upload/cache/upload/imgs/slope-2.webp",
+        "category": "Arcade",
+        "description": "Play Slope 2 online for free"
+    },
+    {
+        "id": 62,
+        "name": "Slope 3",
+        "slug": "slope-3",
+        "image": "/upload/cache/upload/imgs/slope-3.webp",
+        "category": "Arcade",
+        "description": "Play Slope 3 online for free"
+    },
+    {
+        "id": 63,
+        "name": "Slope Ball",
+        "slug": "slope-ball",
+        "image": "/upload/cache/upload/imgs/Slope_Ball.webp",
+        "category": "Arcade",
+        "description": "Play Slope Ball online for free"
+    },
+    {
+        "id": 64,
+        "name": "Slope Run",
+        "slug": "slope-run",
+        "image": "/upload/cache/upload/imgs/slope-run.webp",
+        "category": "Arcade",
+        "description": "Play Slope Run online for free"
+    },
+    {
+        "id": 65,
+        "name": "Slope Tunnel",
+        "slug": "slope-tunnel",
+        "image": "/upload/cache/upload/imgs/slope-tunnel.webp",
+        "category": "Arcade",
+        "description": "Play Slope Tunnel online for free"
+    },
+    {
+        "id": 66,
+        "name": "Slope Xtreme",
+        "slug": "slope-xtreme",
+        "image": "/upload/cache/upload/imgs/slopeextreme.png",
+        "category": "Arcade",
+        "description": "Play Slope Xtreme online for free"
+    },
+    {
+        "id": 67,
+        "name": "Smash Karts",
+        "slug": "smash-karts",
+        "image": "/upload/cache/upload/imgs/smash-karts.jpg",
+        "category": "Arcade",
+        "description": "Play Smash Karts online for free"
+    },
+    {
+        "id": 68,
+        "name": "Speed Legends",
+        "slug": "speed-legends",
+        "image": "/upload/cache/upload/imgs/speedlegends.png",
+        "category": "Arcade",
+        "description": "Play Speed Legends online for free"
+    },
+    {
+        "id": 69,
+        "name": "Sprunki",
+        "slug": "sprunki",
+        "image": "/upload/cache/upload/imgs/sprunki.png",
+        "category": "Arcade",
+        "description": "Play Sprunki online for free"
+    },
+    {
+        "id": 70,
+        "name": "Stack Bounce",
+        "slug": "stack-bounce",
+        "image": "/upload/cache/upload/imgs/sprunki.png",
+        "category": "Arcade",
+        "description": "Play Stack Bounce online for free"
+    },
+    {
+        "id": 71,
+        "name": "Stickman Boost",
+        "slug": "stickman-boost",
+        "image": "/upload/cache/upload/imgs/stickman-boost.webp",
+        "category": "Arcade",
+        "description": "Play Stickman Boost online for free"
+    },
+    {
+        "id": 72,
+        "name": "Stickman Hook",
+        "slug": "stickman-hook",
+        "image": "/upload/cache/upload/imgs/stickmanhook-m200x200.webp",
+        "category": "Arcade",
+        "description": "Play Stickman Hook online for free"
+    },
+    {
+        "id": 73,
+        "name": "Subway Surfers",
+        "slug": "subway-surfers",
+        "image": "/upload/cache/upload/imgs/subwaysurfers-m200x200.webp",
+        "category": "Arcade",
+        "description": "Play Subway Surfers online for free"
+    },
+    {
+        "id": 74,
+        "name": "Suika Game",
+        "slug": "suika-game",
+        "image": "/upload/cache/upload/imgs/suikagame.png",
+        "category": "Arcade",
+        "description": "Play Suika Game online for free"
+    },
+    {
+        "id": 75,
+        "name": "Super Tunnel Rush",
+        "slug": "super-tunnel-rush",
+        "image": "/upload/cache/upload/imgs/super-tunnel-rush.png",
+        "category": "Arcade",
+        "description": "Play Super Tunnel Rush online for free"
+    },
+    {
+        "id": 77,
+        "name": "Triangular Jump",
+        "slug": "triangular-jump",
+        "image": "/upload/cache/upload/imgs/triangular-jump.webp",
+        "category": "Arcade",
+        "description": "Play Triangular Jump online for free"
+    },
+    {
+        "id": 78,
+        "name": "Tunnel Rush",
+        "slug": "tunnel-rush",
+        "image": "/upload/cache/upload/imgs/tunnel-rush.webp",
+        "category": "Arcade",
+        "description": "Play Tunnel Rush online for free"
+    },
+    {
+        "id": 79,
+        "name": "Tunnel Rush 2",
+        "slug": "tunnel-rush-2",
+        "image": "/upload/cache/upload/imgs/tunnel-rush-2.webp",
+        "category": "Arcade",
+        "description": "Play Tunnel Rush 2 online for free"
+    },
+    {
+        "id": 80,
+        "name": "Two Tunnel 3d",
+        "slug": "two-tunnel-3d",
+        "image": "/upload/cache/upload/imgs/two-tunnel-3d.webp",
+        "category": "Arcade",
+        "description": "Play Two Tunnel 3d online for free"
+    },
+    {
+        "id": 81,
+        "name": "Vex 8",
+        "slug": "vex-8",
+        "image": "/upload/cache/upload/imgs/vex-8.webp",
+        "category": "Arcade",
+        "description": "Play Vex 8 online for free"
+    }
+]

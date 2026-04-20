@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://kartbros.gitlab.iositemap.xml
+
+# Disallow admin and cache directories (if any)
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /*.json$
+
+# Allow important directories
+Allow: /games/
+Allow: /category/
+Allow: /themes/
+Allow: /data/
+Allow: /upload/
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
